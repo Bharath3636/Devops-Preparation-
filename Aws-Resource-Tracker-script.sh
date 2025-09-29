@@ -19,7 +19,7 @@ echo "print list of ec2 instances"
 aws ec2 describe-instances
 
 # list AWS Lambda instances
-echo "print list pf lambda functions"
+echo "print list of lambda functions"
 aws lambda list-functions
 
 #list Aws IAM Users
